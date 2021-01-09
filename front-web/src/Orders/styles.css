@@ -261,6 +261,7 @@
     transform: scale(1.01);
   }
   
+  
   @media only screen and (max-width: 768px) {
     .orders-steps-content {
       display: flex;
